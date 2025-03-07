@@ -3,7 +3,7 @@
 | Surname      | First Name | Class     | Github user name                        |
 | :----------- | :--------- | :-------- | :-------------------------------------- |
 | Van den Eeden   | Kobe | G2.C1     | [KobeVde](https://github.com/KobeVde) |
-| Vandermeulen     | Alex | G2.C1     | [UserName](https://github.com/AlexVandermeulen) |
+| Vandermeulen     | Alex | G2.C1     | [AlexVandermeulen](https://github.com/AlexVandermeulen) |
 
 This Github-repository contains all the necessary information you need to prepare and write the paper for the subject Research Methods.
 
