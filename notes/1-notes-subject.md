@@ -4,7 +4,7 @@ Write down your ideas for a subject and research question in this document. You 
 
 ## Question 1
 ### Main question
-"How effective are drones in providing reliable network access for emergency services to operate in areas with no network infrastructure?"
+"How effective are drones in providing reliable network access for emergency services to operate in areas with no network infrastructure?" <br>
 ### Subquestions
 "What network technologies would we need to provide a reliable network considering rough terrain?"
 "What kind of drones are required to mount these network technologies on? What are their technical requirements?"
